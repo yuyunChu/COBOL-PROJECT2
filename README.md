@@ -8,7 +8,8 @@ This COBOL project is my hands-on practice during my academic pursuit as a compu
 - Create a table of inventory data
 - Searching a table
 - Compute inventory unit price
-- Calculate a total value, auto-generate output files
+- Calculate a total value
+- Auto-generate output files
 - Sorting-records
 - Writing records to a sequential file
 - Printing audit counter
