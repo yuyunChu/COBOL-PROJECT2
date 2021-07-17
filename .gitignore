@@ -1,0 +1,6 @@
+New_Configuration.bin/
+settings/
+.settings
+.cobolBuild
+.cobolProj
+.project
