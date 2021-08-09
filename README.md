@@ -2,7 +2,7 @@
 ![](https://www.openmainframeproject.org/wp-content/uploads/sites/11/2021/02/Screen-Shot-2021-02-02-at-5.04.01-PM.png)
 
 This COBOL project is my hands-on practice during my academic pursuit as a computer programmer. 
-## Practice Goals
+## Project Outline
 - Read sequential files
 - Processing files
 - Create a table of inventory data
@@ -13,8 +13,6 @@ This COBOL project is my hands-on practice during my academic pursuit as a compu
 - Sorting-records
 - Writing records to a sequential file
 - Printing audit counter
-- Closing files
-- Terminating this program
 
 The detail of this project please find the [documentation](https://github.com/yuyunChu/COBOL-PROJECT2/blob/main/PROJECT%202%20SPRING%202020%20-%20CYY.pdf) for the further reference.
 
